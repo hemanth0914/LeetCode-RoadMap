@@ -1,5 +1,3 @@
-# LeetCode-RoadMap
-
 # Data Structures and Algorithms Preparation Roadmap
 
 ## Overview
